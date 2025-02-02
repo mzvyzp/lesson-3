@@ -1,4 +1,4 @@
-let daysInCountry = 1062;
+const daysInCountry = 1062;
 if (daysInCountry < 183) {
     console.log('You are a tourist');
 } else if (daysInCountry >= 183 && daysInCountry < 5 * 365) {
